@@ -1,0 +1,8 @@
+{
+    "nome": "user1",
+    "idade": "20",
+    "posts": {
+        "post1": "teste",
+        "post1": "teste"
+    }
+}
